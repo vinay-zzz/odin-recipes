@@ -1,0 +1,15 @@
+h1{
+    color: aliceblue;
+    background-color: aqua;
+}
+div{
+    color: bisque;
+    font-size: 34px;
+    font-family: "Times New Roman";
+
+}
+.image{
+    height: auto;
+    width: 300px;
+    
+}
