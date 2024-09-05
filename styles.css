@@ -1,4 +1,9 @@
 .one,.two,.three{
     font-size: 34px;
-    background-color: aqua;
+    background-color: rgba(196, 92, 32, 0);
+    margin: 25px;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 16px double black;
+    display: inline-flex;
 }
